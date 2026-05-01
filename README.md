@@ -38,14 +38,13 @@ AI-ML-main/
 │
 ├── LAB-Experiments/
 │   ├── AI/
-│   │   └── Informed/
-│   │       ├── BFS.py
-│   │       ├── DFS.py
-│   │       └── Uniformed.py
-│   │   └── Un-Informed/
-│   │       ├── A-star.py
-│   │       ├── BestFit.py
-│   │       └── HillClimbing.py
+│   │   ├── A-star.py
+│   │   ├── BFS.py
+│   │   ├── BestFirstSearch.py
+│   │   ├── DFS.py
+│   │   ├── HillClimbing.py
+│   │   ├── TICTACTOE.py
+│   │   └── UniformSearch.py
 │   └── ML/
 │       ├── SupervisedLearning/
 │       │   ├── DecisionTree.py
